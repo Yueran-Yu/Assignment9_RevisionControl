@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac796e83-4341-4f85-ae48-3c5eff7ee459" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwUteqA87nasMTQuzqjOs48Aw0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ParsingXHTML">
+    <configuration name="ParsingXHTML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Asignment07-Parsing XHTML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParsingXHTML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebScraping-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Asignment07-Parsing XHTML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScraping-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebScraping1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Asignment07-Parsing XHTML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScraping1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ParsingXHTML" />
+        <item itemvalue="Python.WebScraping1" />
+        <item itemvalue="Python.WebScraping-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac796e83-4341-4f85-ae48-3c5eff7ee459" name="Default Changelist" comment="" />
+      <created>1583853365722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583853365722</updated>
+      <workItem from="1583853368230" duration="8732000" />
+      <workItem from="1583872634728" duration="12633000" />
+      <workItem from="1584038511483" duration="8673000" />
+      <workItem from="1584488434508" duration="28000" />
+      <workItem from="1584494595281" duration="2938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="236" y="365" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584495097989">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="236" y="365" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1584495097989" />
+    <state width="854" height="167" key="GridCell.Tab.0.bottom" timestamp="1584498263212">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1750" height="261" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583871208765" />
+    <state width="1041" height="202" key="GridCell.Tab.0.bottom/0.23.1792.1065@0.23.1792.1065" timestamp="1584081495652" />
+    <state width="854" height="178" key="GridCell.Tab.0.bottom/1792.23.1920.1025/0.23.1792.1097@0.23.1792.1097" timestamp="1584496073784" />
+    <state width="854" height="167" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1584498263212" />
+    <state width="854" height="167" key="GridCell.Tab.0.center" timestamp="1584498263212">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1750" height="261" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583871208764" />
+    <state width="1041" height="202" key="GridCell.Tab.0.center/0.23.1792.1065@0.23.1792.1065" timestamp="1584081495651" />
+    <state width="854" height="178" key="GridCell.Tab.0.center/1792.23.1920.1025/0.23.1792.1097@0.23.1792.1097" timestamp="1584496073783" />
+    <state width="854" height="167" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1584498263212" />
+    <state width="854" height="167" key="GridCell.Tab.0.left" timestamp="1584498263211">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1750" height="261" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583871208763" />
+    <state width="1041" height="202" key="GridCell.Tab.0.left/0.23.1792.1065@0.23.1792.1065" timestamp="1584081495651" />
+    <state width="854" height="178" key="GridCell.Tab.0.left/1792.23.1920.1025/0.23.1792.1097@0.23.1792.1097" timestamp="1584496073783" />
+    <state width="854" height="167" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1584498263211" />
+    <state width="854" height="167" key="GridCell.Tab.0.right" timestamp="1584498263212">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1750" height="261" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583871208764" />
+    <state width="1041" height="202" key="GridCell.Tab.0.right/0.23.1792.1065@0.23.1792.1065" timestamp="1584081495652" />
+    <state width="854" height="178" key="GridCell.Tab.0.right/1792.23.1920.1025/0.23.1792.1097@0.23.1792.1097" timestamp="1584496073784" />
+    <state width="854" height="167" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1584498263212" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Asignment07_Parsing_XHTML$WebScraping1.coverage" NAME="WebScraping1 Coverage Results" MODIFIED="1584488447129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Asignment07_Parsing_XHTML$ParsingXHTML.coverage" NAME="ParsingXHTML Coverage Results" MODIFIED="1584496762850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Asignment07_Parsing_XHTML$WebScraping.coverage" NAME="WebScraping Coverage Results" MODIFIED="1584051158672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
